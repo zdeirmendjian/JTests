@@ -8,6 +8,9 @@ classes/
 # Exclude the eclipse .metadata workspace folder
 .metadata/
 
+# Exclude recommenders folder and files
+.recommenders/
+
 # Exclude temporary and backup files
 tmp/
 *.bak
